@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0px 150px;
+    margin-top: 30px;
+    border: 1px solid black;
+    box-shadow: 2px 2px  10px rgb(26, 3, 137);
+    padding: 25px;
+    border-radius: 20px;
+   
+}
+.header a{
+    text-decoration: none;
+    color: rgb(5, 23, 128);
+    font-weight: bold;
+}

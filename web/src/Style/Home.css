@@ -1,0 +1,18 @@
+.home{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+.home .pic img{
+    
+    height: 600px;
+    width: 900px;
+}
+.home h1{
+    color: rgb(10, 12, 120);
+}
+.home h2{
+    color: rgb(104, 99, 99);
+}

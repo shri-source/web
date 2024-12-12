@@ -1,0 +1,33 @@
+.footer{
+    margin-top: 100px;
+}
+.footer p{
+   text-align: center;
+}
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0px 150px;
+    margin-top: 30px;
+    
+   
+}
+.links a{
+    color: rgb(4, 4, 81);
+    text-decoration: none;
+    font-weight: bold;
+}
+.footer hr{
+    
+    margin: 30px 600px;
+}
+.footerbottom{
+    margin-left: 550px;
+}
+.footerbottom a{
+  
+   align-items: center;
+    text-decoration: none;
+    color: rgb(4, 4, 81);
+}
